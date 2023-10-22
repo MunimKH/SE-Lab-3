@@ -1,2 +1,1 @@
-These are my function edited by *** Muhammad Asif ***
-search books, checkin, details fo books, user record of books
+final updates have been made . This is the final code by "Munim Naeem" and "Muhammad Asif"

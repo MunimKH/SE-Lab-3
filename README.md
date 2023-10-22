@@ -1,2 +1,1 @@
-This is my file edited by **** Munim Naeem ****
-There are features containing signup, login, book adding , issueing book and a console base interface for Library Management system
+final updates have been made . This is the final code by "Munim Naeem" and "Muhammad Asif"
